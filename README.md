@@ -8,8 +8,6 @@
 
 - 📝 I regularly write articles on [https://t.me/FayozDev](https://t.me/FayozDev)
 
-- 💬 Ask me about **React**
-
 - 📫 How to reach me **fayozbekdev@gmail.com**
 
 - 📄 Know about my experiences [file:///C:/Users/Azizbek/Desktop/Fayozbek%20Borotboyev%20for%20Work.pdf](file:///C:/Users/Azizbek/Desktop/Fayozbek%20Borotboyev%20for%20Work.pdf)
